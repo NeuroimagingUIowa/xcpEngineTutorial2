@@ -82,6 +82,6 @@ singularity run -B /Users/tientong/xcpEngine/atlas/merged:/xcpEngine/atlas/merge
 -d /Users/tientong/xcpEngine_tut/fc-36p_scrub_merged.dsn \
 -c /Users/tientong/xcpEngine_tut/cohort.csv \
 -o /Users/tientong/xcpEngine_tut/test \
--t 1 -r /Users/tientong/xcpEngine_tut/fmriprep
+-t 1 -r /Users/tientong/xcpEngine_tut
 ```
 
